@@ -114,7 +114,7 @@ def main():
     print("Private key:", private_key)
     
     # Message to encrypt (must be less than n)
-    message = 12345
+    message = "Ajna"
     print("\nOriginal message:", message)
     
     # Encryption
